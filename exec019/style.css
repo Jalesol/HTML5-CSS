@@ -1,0 +1,28 @@
+
+body {
+    background-color: #FAFEFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    color:#C10000 ;
+}
+h2 {
+    color: #4D4D50;
+}
+#principal {
+    text-align: center;
+     color: #000000;
+     background-color: #ccbcbcbe;
+}
+.basico {
+    color: #aa4646;
+}
+.intermediario {
+    color: #f14a4a;
+}
+.avançado {
+    color: #c41616;
+}
+
+
+
